@@ -1,8 +1,6 @@
 ;main
-
-include a1.asm
-include a2.asm
-
+extrn printA:far
+extrn printB:far
 datas segment
 datas ends
 
@@ -17,7 +15,7 @@ start:
     mov ds, ax
 	
 	
-	printA          ;调用a2.asm里的宏
+	call printA        
 	call printB
 
 

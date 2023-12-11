@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(8,9): warning C4405: “test”: 标识符是保留字
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(10,9): warning C4405: “test”: 标识符是保留字
+  Project1.vcxproj -> F:\IDE\Assembly\5\Project1\Debug\Project1.exe

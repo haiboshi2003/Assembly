@@ -1,0 +1,14 @@
+﻿  源.cpp
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(6,5): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(8,9): error C2065: “mov”: 未声明的标识符
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(8,14): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(8,14): error C2065: “eax”: 未声明的标识符
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(9,9): error C2146: 语法错误: 缺少“;”(在标识符“dec”的前面)
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(9,9): error C2065: “dec”: 未声明的标识符
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(9,14): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(9,14): error C2065: “eax”: 未声明的标识符
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(10,9): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(10,9): error C2065: “mov”: 未声明的标识符
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(10,14): error C2146: 语法错误: 缺少“;”(在标识符“test”的前面)
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(10,20): error C2065: “eax”: 未声明的标识符
+F:\IDE\Assembly\5\Project1\Project1\源.cpp(11,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
